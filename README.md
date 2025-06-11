@@ -2,7 +2,7 @@
 Pada penelitian ini dibangun sebuah sistem pemantauan kualitas air kolam budidaya
 ikan menggunakan jaringan sensor nirkabel. Sistem terdiri atas kumpulan perangkat node sensor yang ditempatkan pada kolam untuk mengamati kualitas air dan mengirimkannya ke data center. Node sensor tersusun atas dua komponen utama yaitu mikrokontroler dan sensor Secara periodik, node sensor mengambil data pengamatan suhu dari kolam ikan. Data hasil pengamatan tersebut kemudian dikirimkan ke database lalu ke aplikasi telegram. Pada penelitian ini, peneliti memanfaatkan wemos d1r2 yang mampu mendukung komunikasi jarak jauh dengan konsumsi daya rendah. Hal ini penting mengingat node sensor akan ditempatkan pada kolam ikan sehingga node tersebut harus mampu bekerja menggunakan catu daya mandiri dari baterai yang dilengkapi sel surya. Selanjutnya, perangkat wemos d1r2 meneruskan data yang dikumpulkan dari semua node sensor ke sebuah data center untuk diolah dan dianalisis lebih lanjut. Peternak dapat mengamati kondisi air kolam budidaya secara real time dari sebuah aplikasi seperti telegram.
 
- Alat dan Bahan
+ ##Alat dan Bahan
  1. Sensor suhu DS18B20
  2. wemos d1r2
  3. Breadboard
@@ -14,20 +14,20 @@ ikan menggunakan jaringan sensor nirkabel. Sistem terdiri atas kumpulan perangka
  9. LED
  10. 2 buah cangkir berisi air
 
-Skema rangkaian
+##Skema rangkaian
 
 ![image](https://github.com/user-attachments/assets/97be98c3-54fc-419f-9ef8-83bc89f2f0b2)
 
-Gambaran Umum
+##Gambaran Umum
 
 ![image](https://github.com/user-attachments/assets/f9fc8bde-ff2b-4cfc-87d6-bd86e58f8d0b)
 
 
-Flowchart
+##Flowchart
 
 ![image](https://github.com/user-attachments/assets/285c943d-fd6e-4cdb-a2ef-f994bd43ddd4)
 
-Rangkaian
+##Rangkaian
 
 ![image](https://github.com/user-attachments/assets/35bb7a54-7be1-4bfc-b8da-d39d9fb9e97a)
 
