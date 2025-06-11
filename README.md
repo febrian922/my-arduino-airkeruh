@@ -15,19 +15,24 @@ ikan menggunakan jaringan sensor nirkabel. Sistem terdiri atas kumpulan perangka
  10. 2 buah cangkir berisi air
 
 Skema rangkaian
+
 ![image](https://github.com/user-attachments/assets/97be98c3-54fc-419f-9ef8-83bc89f2f0b2)
 
 Gambaran Umum
+
 ![image](https://github.com/user-attachments/assets/f9fc8bde-ff2b-4cfc-87d6-bd86e58f8d0b)
 
 
 Flowchart
+
 ![image](https://github.com/user-attachments/assets/285c943d-fd6e-4cdb-a2ef-f994bd43ddd4)
 
 Rangkaian
+
 ![image](https://github.com/user-attachments/assets/35bb7a54-7be1-4bfc-b8da-d39d9fb9e97a)
 
 Hasil
+
 ![image](https://github.com/user-attachments/assets/bf46027f-0079-4899-aac2-c9b538d58f50)
 ![image](https://github.com/user-attachments/assets/7b94cd38-6f4e-4fae-b59c-43a4bdbd7ed4)
 
